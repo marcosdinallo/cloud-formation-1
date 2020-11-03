@@ -1,0 +1,9 @@
+Description: >
+    Marcos Di Nallo / DinalloIt
+    This temoplate deploys a VPC
+Resources:
+    UdacityVPC:
+        type: AWS::EC2::VPC
+        Properties:
+            CidrBlock: 10.0.0.0/16
+            EnableDnsHostnames: true

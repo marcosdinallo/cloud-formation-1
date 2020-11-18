@@ -1,0 +1,14 @@
+[
+    {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "Udagram"
+    },
+    {
+    "ParameterKey": "DNSProtocol",
+    "ParameterValue": "http://"
+    },
+    {
+    "ParameterKey": "ApplicationS3Bucket",
+    "ParameterValue": "dinallo-udagram"
+    }
+]
